@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: #ffb042;
+}
+
+.hone {
+ color: black; font-size: 44px;
+border-style: solid; border-color: #ffc038; padding: 5px;
+height: 2ch;
+  background-color: #cccccc;
+  background-image: linear-gradient(red, yellow);
+}
+.htwo {
+   color: black; font-size: 22px;
+border-style: solid; border-color: #ffc038; padding: 5px;
+}
+.hthree {
+  text-align: center; color: black; font-size: 44px;
+border-style: solid; border-color: aqua; padding: 5px;
+height: 800px;
+  background-image: linear-gradient(blue, aqua);
+}
+.pone {
+  color: black; font-size: 24px; border-style: solid; border-color: #ffc038; padding: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.sunshine {
+  border-style: solid; border-color: #ffc038; border-radius: 50px;   border-width: thick;
+}
+.dawg {
+  border-style: solid; border-color: aqua; border-radius: 50px;   border-width: thick;
+}
+.ptwo {
+  text-align: left; font-size: 24px; background-color: whitesmoke;
+}
